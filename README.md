@@ -1,6 +1,5 @@
-
-# Weather Forecasting Web-App
-The Blog Application built with MERN (MongoDB, Express.js, React.js, Node.js) technologies. This web application allows users to create, edit, and delete blog posts, as well as view and comment on posts from other users. The MERN stack provides a robust and scalable architecture for building modern web applications.
+# Blog Application
+The Blog Application is built with MERN (MongoDB, Express.js, React.js, Node.js) technologies. This web application allows users to create, edit, and delete blog posts, as well as view and comment on posts from other users. The MERN stack provides a robust and scalable architecture for building modern web applications.
 
 ## Features
 
@@ -8,7 +7,7 @@ The Blog Application built with MERN (MongoDB, Express.js, React.js, Node.js) te
 
 - Create and Edit Posts: Authenticated users can create new blog posts and edit their existing posts. The rich text editor enhances the content creation experience.
 
-- Delete Posts: Users can delete their own posts, removing them from the public view.
+- Delete Posts: Users can delete their posts, removing them from the public view.
 
 - View and Comment: Visitors can view all blog posts, including the ones from other users, and leave comments on the posts.
 
@@ -48,9 +47,9 @@ Finally, I would like to thank the GitHub community for providing a platform for
 Thank you all!
 ## Documentation
 
-I learned web development through various online resources, including Codecademy, FreeCodeCamp. I also attended local meetups and workshops to connect with other developers and learn from their experiences.
+I learned web development through various online resources, including Codecademy, and FreeCodeCamp. I also attended local meetups and workshops to connect with other developers and learn from their experiences.
 
-To create this Realtime Chat App, I used my knowledge of HTML, CSS and JavaScript which I learned through these resources. I also consulted various online forums and documentation to overcome any challenges I encountered during the development process.
+To create this Realtime Chat App, I used my knowledge of HTML, CSS, and JavaScript which I learned through these resources. I also consulted various online forums and documentation to overcome any challenges I encountered during the development process.
 
 Overall, my passion for coding and a willingness to learn allowed me to develop the skills necessary to create this project.
 
@@ -70,7 +69,7 @@ Some Resources:-
 
 Contributions are always welcome!
 
-This project was created by **Rohit Sharma** . If you have any feedback or suggestions, please contact me at **28rohitsharmait@gmail.com** .
+This project was created by **Rohit Sharma**. If you have any feedback or suggestions, please contact me at **28rohitsharmait@gmail.com** .
 
 
 ## Feedback
@@ -82,10 +81,10 @@ If you have any feedback, please reach out to us at 28rohitsharmait@gmail.com
 Hello, I'm Rohit Sharma, I'm passionate about building web applications and creating user-friendly interfaces that make people's lives easier. My main areas of expertise include front-end and web design.
 
 ## Skills
-- C++ Programing
-- C Programing
-- Problme Solving
-- Object Oriented Programing
+- C++ Programming
+- C Programming
+- Problem Solving
+- Object Oriented Programming
 - HTML
 - CSS
 - CSS Tailwind
